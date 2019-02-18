@@ -1,2 +1,2 @@
 # dobruja
-dobruja.com
+dobruja
